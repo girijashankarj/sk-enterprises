@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "SK Enterprises",
+    "slug": "sk-enterprises",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0f766e"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.skenterprises.ops"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0f766e"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "package": "com.skenterprises.ops"
+    },
+    "web": {
+      "favicon": "./assets/favicon.svg"
+    }
+  }
+}
