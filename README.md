@@ -6,7 +6,7 @@ SK Enterprises is a **plastic injection molding** workshop led by **Shubham Kale
 
 This document is the **entry point** for business owners, tech reviewers, and developers. Deep dives live under [`docs/`](docs/00-INDEX.md).
 
-**Public GitHub:** [github.com/girijashankarj/sk-enterprises](https://github.com/girijashankarj/sk-enterprises)
+**Live web app (public):** [girijashankarj.github.io/sk-enterprises](https://girijashankarj.github.io/sk-enterprises/)
 
 ---
 
