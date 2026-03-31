@@ -20,10 +20,12 @@ export const SITE = {
   ].join(", "),
   locale: "en_IN",
   location: "Pune, India",
-  bannerPath: "/branding/sk-banner.svg",
+  /** Plastics / production floor — distinct from AJ’s PNG banner and from MAC metal imagery. */
+  bannerPath:
+    "https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=1280&q=82",
   /** Open-licensed stock (Unsplash License — https://unsplash.com/license). */
   heroPhoto: {
-    src: "https://images.unsplash.com/photo-1581092160562-40aa08f60fcd?auto=format&fit=crop&w=1800&q=82",
+    src: "https://images.unsplash.com/photo-1581093577421-f561a654a353?auto=format&fit=crop&w=1800&q=82",
     alt: "Plastic molding and industrial polymer production context",
     licenseUrl: "https://unsplash.com/license"
   },
